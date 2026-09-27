@@ -1,6 +1,6 @@
 ---
 name: dep-refs
-description: Use when needs to inspect TypeScript export references in the z-code workspace, list exports from a file, verify whether an export is unused before deletion, investigate who imports a symbol during refactors, or combine pnpm knip unused-export results with pnpm dep:refs symbol-level reference tracing.
+description: Use when you need to inspect TypeScript export references in the z-code workspace, list exports from a file, verify whether an export is unused before deletion, investigate who imports a symbol during refactors, or combine pnpm knip unused-export results with pnpm dep:refs symbol-level reference tracing.
 disable-model-invocation: true
 ---
 
